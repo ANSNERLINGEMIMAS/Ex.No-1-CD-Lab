@@ -91,7 +91,8 @@ int main() {
 <img width="296" height="272" alt="image" src="https://github.com/user-attachments/assets/32bae9dd-24bb-4acd-9dfc-192c8ff5d248" />
 
 
-<img width="713" height="579" alt="Screenshot 2025-08-22 102933" src="https://github.com/user-attachments/assets/85810861-4859-4816-b7dd-29c4a6d2061e" />
+<img width="638" height="598" alt="Screenshot 2025-08-22 104301" src="https://github.com/user-attachments/assets/8a2bdf88-7643-4b87-be4a-4677e3ce8883" />
+
 
 
 
